@@ -2,12 +2,14 @@
 
   
 *This repository is an Unreal Engine project that aims to help all skill levels to get started and advance in the world of Virtual Production and Virtual Broadcast.*
+
+For a quick guide on how to download, contribute and use the project please see our YouTube playlist [here](https://youtube.com/playlist?list=PLElT6SIg9JnCUvlJCw2xOxvBZT7C4Vgcd&si=1XVB2fAUzpN1j7Y4) and our [Beginner to Professional Compositor in Unreal Engine playlist](https://youtube.com/playlist?list=PLElT6SIg9JnA2RC1sFXQEj3F7UWw5pVq7&si=HGpxQwowFebBHA8S)
    
 ## 🐵 Why do I need this repo?
 
-Virtual Production and real time Virtual Filmmaking can be a complicated beast, with many challenges and rabbit holes of research to explore and get lost in. Here at Off World we have been amongst it for a considerable amount of time now, and we feel that among our Discord and our greater networks we have been able to distill down some incredible workflows for indie and large studio filmmakers alike. 
+Virtual Production and real time Virtual Filmmaking can be complicated, with many challenges and rabbit holes of research to explore and get lost in. Here at Off World we have been amongst it for a considerable amount of time now, and we feel that among our Discord and our greater networks we have been able to distill down some incredible workflows for indie and large studio filmmakers alike. 
 
-We have decided to collate this wealth of knowledge and innovation in the most useful way possible; an example project that can be downloaded and booted up so that whether your background is in filmmaking, game development, motion graphics, (or none of the above!) you will be able to get going in the world of virtual production immediately.  
+We have decided to collate this wealth of knowledge and innovation in the most useful way possible; an example project that can be downloaded and booted up so that whether your background is in filmmaking, game development, motion graphics, (or none of the above!) you will be able to get going in the world of Virtual Production immediately.  
 
 This repo is based on the idea that you should never have to start from scratch when working on a creative project. With a project that already includes useful assets and configs your set up time is reduced to zero and you can get going with the creative side. 
 
@@ -64,11 +66,11 @@ An ever growing resource of useful blueprints for both level building and deploy
 
  ## How do I get involved? 
 
-- For a simple download you can just download the Zip of the latest Github release and open the project locally. 
-- As a contributor you are invited to clone the repo and issue pull requests to the master branch, these will be carefully reviewed and quality assured before merge. 
-- You can also join our weekly 
-[Virtual Production Q+A sessions](https://www.youtube.com/watch?v=q1yv2vhnfc8&list=PLElT6SIg9JnBuvHHnVX6ZzRI2AVQKf7nV&ab_channel=OFFWORLDLIVE)
-         as we explore new features of the repo and open up discussion to the community. 
+- For a simple download you can just [download the Zip](https://youtu.be/-E4X5-3u0vs?si=DHJHoO-GG7Mt65LF) of the latest Github release and open the project locally. 
+- As a contributor you are invited to [clone the repo](https://youtu.be/mCQHBaErlD4?si=GgYInaBWddeora7H) and issue pull requests to the master branch, these will be carefully reviewed and quality assured before merge.
+- Check out our our [Beginner to Professional Compositor in Unreal Engine playlist](https://youtube.com/playlist?list=PLElT6SIg9JnA2RC1sFXQEj3F7UWw5pVq7&si=HGpxQwowFebBHA8S)
+- Watch our weekly [Virtual Production Q+A sessions](https://www.youtube.com/watch?v=q1yv2vhnfc8&list=PLElT6SIg9JnBuvHHnVX6ZzRI2AVQKf7nV&ab_channel=OFFWORLDLIVE) where we explore new features of the repo and open up discussion to the community.
+- Join our [Discord](https://discord.gg/EB98hr6H) to ask questions to our team and our community and join our weekly open Q+A sessions.
 
 ## Minimum PC requirements: 
 
@@ -80,19 +82,20 @@ An ever growing resource of useful blueprints for both level building and deploy
 Render Hardware Interface (RHI) DirectX 11 & DirectX 12: Latest Drivers. 
         
 Need help? 
-You can join our [Discord](https://discord.gg/YRYRcSTb) to discuss this shared project with e community or ask questions [here](https://knowledge.offworld.live/en)
+You can join our [Discord](https://discord.gg/YRYRcSTb) to discuss this shared project with thee community or ask questions [here](https://knowledge.offworld.live/en)
 
 
  ### Licensing
-The OWL VTuber Studio is an *Apache-licensed* open-source Unreal project file repository on GitHub.
+The Off World Live Open-Source Virtual Production Repository is an *Apache-licensed* open-source Unreal project file repository on GitHub.
 
 It allows users to use the software for any purpose, to distribute it, to modify it, and to distribute modified versions of the software under the terms of the license, without concern for royalties.
-OWLStreamingToolkit is Copyright © 2021 Off World Live Limited. All rights reserved.
+
+Copyright © 2023 Off World Live Limited. All rights reserved.
 
 #### Contributors
-VP Studio is created by [@wesleyyuen](https://github.com/wesleyyuen) and [@jennnital](https://github.com/jennnital) with the support of the Off World Live team.
-Key visual assets and environment design by [@enpe23](https://github.com/enpe23) and [@HardcoreRick](https://github.com/HardcoreRick).
-Special thanks to [@campbellwmorgan](https://github.com/campbellwmorgan) [@fdomw](https://github.com/fdomw) for the development of the VP Studio
+Off World Live Open-Source Virtual Production Repository is created by [@HardcoreRick](https://github.com/HardcoreRick) and the Off World Live Team.
+Key contributions from [@enpe23](https://github.com/enpe23) [@wesleyyuen](https://github.com/wesleyyuen) and [@jennnital](https://github.com/jennnital) 
+Special thanks to [@campbellwmorgan](https://github.com/campbellwmorgan) [@fdomw](https://github.com/fdomw)
 
 ### [Off World Live](https://offworld.live/)
 
