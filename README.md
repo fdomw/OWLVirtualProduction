@@ -80,7 +80,7 @@ An ever growing resource of useful blueprints for both level building and deploy
 Render Hardware Interface (RHI) DirectX 11 & DirectX 12: Latest Drivers. 
         
 Need help? 
-You can join our [Discord](https://discord.gg/YRYRcSTb) to discuss this shared project with e community or ask questions [here](https://knowledge.offworld.live/en)
+You can join our [Discord](https://discord.gg/YRYRcSTb) to discuss this shared project with the community or ask questions [here](https://knowledge.offworld.live/en)
 
 
  ### Licensing
